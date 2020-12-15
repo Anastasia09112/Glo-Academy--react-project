@@ -1,4 +1,4 @@
-# Glo-Academy--react-project
+# Mr. Donald's--react-project
 
 ![logo](https://user-images.githubusercontent.com/60625771/102224271-d1f05e80-3ef6-11eb-8ca0-cdb98ab6b2e1.jpg)
 
